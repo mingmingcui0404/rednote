@@ -1,0 +1,11 @@
+.agents/
+assets/
+codex_pdfs/
+*.docx
+*.pptx
+*_extracted.txt
+*_stream.docx
+create_boyaa_ppt.ps1
+index.html
+app.js
+styles.css
